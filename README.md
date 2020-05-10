@@ -1,8 +1,18 @@
 ## Research Papers and Notes
 
--
+- [Disinformation and Fake News Detection](#disinformation-and-misinformation-fake-news-detection)
+- [Deep Learning](#deep-learning)
+- [Knowledge Graph](#knowledge-graphs)
 
-- Knowledge Graph
+---
+
+### Disinformation and Misinformation (Fake News) Detection
+
+- **Bots, Lies, and DeepFakes — Online Misinformation and AI's Role in it.** Janny Zhang
+  [[Article](https://www.skynettoday.com/overviews/misinfo)]
+  - Excellent Summary (Non-Technical)
+
+---
 
 ### Deep Learning
 
@@ -12,5 +22,9 @@
 
 ---
 
-- **A Survey on Knowledge Graphs: Representation, Acquisition and Applications**. Shaoxiong Ji, Shirui Pan, Erik Cambria, Pekka Marttinen, Philip S. Yu [[Paper]](https://arxiv.org/pdf/2002.00388.pdf) [[Notes]](/A-Survey-on-Knowledge-Graphs-Representation-Acquisition-and-Applications/README.md)
-  - Excellent read to get complete understanding of Knowledge Graph universe and summary of latest research
+- **A Survey on Knowledge Graphs: Representation, Acquisition and Applications**. Shaoxiong Ji, Shirui Pan, Erik Cambria, Pekka Marttinen, Philip S. Yu
+  [[Paper](https://arxiv.org/abs/2002.00388)]
+  [[Microsoft Academic](https://academic.microsoft.com/paper/3003265726/reference)]
+  [[Notes](/A-Survey-on-Knowledge-Graphs-Representation-Acquisition-and-Applications/README.md)]
+  - Excellent Knowledge Graph Overview
+  - Latest Research Summary
